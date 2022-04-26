@@ -7,7 +7,7 @@ call Script: python.exe .\show_xml.py -i .\racing_chnl_osd_win.xml
 
 Change pixel values, Run script again and see where new position is.
 
-<img src="show_xml/Unbekannt.JPG"/>
-<img src="show_xml/Unbekannt1.JPG"/>
+<img src="show_xml/Unbenannt.JPG"/>
+<img src="show_xml/Unbenannt2.JPG"/>
 
 
