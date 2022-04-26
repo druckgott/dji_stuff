@@ -5,6 +5,8 @@ Files from goggle: \system\gui\xml\racing_chnl_osd_win.xml
 
 call Script: python.exe .\show_xml.py -i .\racing_chnl_osd_win.xml
 
+Upload file: adb.exe push .\racing_chnl_osd_win.xml /system/gui/xml
+
 Change pixel values, Run script again and see where new position is.
 
 <img src="show_xml/Unbenannt.JPG"/>
