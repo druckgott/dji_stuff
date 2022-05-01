@@ -12,4 +12,6 @@ Change pixel values, Run script again and see where new position is.
 <img src="show_xml/Unbenannt.JPG"/>
 <img src="show_xml/Unbenannt2.JPG"/>
 
+FIX 14 Sats @ custom DJI OSD
 
+<img src="tricks/custom_dji_osd_betaflight.JPG"/>
