@@ -1,4 +1,8 @@
 # dji_stuff
+
+dji goggle root is needed
+https://github.com/fpv-wtf/margerine
+
 python script for reading the racing_chnl_osd_win.xml for faster edit mode. Edit position in file and call script again to show where the new position lable is.
 
 Files from goggle: \system\gui\xml\racing_chnl_osd_win.xml
